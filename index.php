@@ -192,17 +192,17 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav">
             <a href="index.php" class="nav-item nav-link active">Home</a>
-            <a href="about.php" class="nav-item nav-link">Tentang Kalita</a>
-            <a href="destination.php" class="nav-item nav-link">Destinasi/paket</a>
+            <a href="dashboard/about.php" class="nav-item nav-link">Tentang Kalita</a>
+            <a href="dashboard/destination.php" class="nav-item nav-link">Destinasi/paket</a>
             <a href="#" class="nav-item nav-link">Top Bus</a>
             <a href="#" class="nav-item nav-link disabled" tabindex="-1">Reports</a>
         </div>
         <div class='navbar-nav ml-auto'>
-            <a href='login.php' class='nav-item nav-link'>Login</a>
+            <a href='auth/login.php' class='nav-item nav-link'>Login</a>
             |
             <br>
             |
-            <a href='form_register.php' class='nav-item nav-link'>Register</a>
+            <a href='auth/register.php' class='nav-item nav-link'>Register</a>
         </div>
   
     </div>
